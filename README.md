@@ -6,5 +6,9 @@ Based on mult_linear_reg.csv
 https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant#
 
 ## Gradient Descent (salary)
-Predicting wages with the years of experience <br>
+We want to predict the salary of a new employee. Based on the years of experience of the employees in the company and their wages, I implement the Gradient Descent algorithm. <br>
 Based on salary.csv
+
+## Logistic Regression (Titanic)
+We want to predict if people survived in the Titanic with Logistic Regression. My model has an accuracy of 77%.
+Based on train.csv
