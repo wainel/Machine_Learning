@@ -10,5 +10,5 @@ We want to predict the salary of a new employee. Based on the years of experienc
 Based on salary.csv
 
 ## Logistic Regression (Titanic)
-We want to predict wich passenger survived on the Titanic with Logistic Regression. My model has an accuracy of 77%.<br>
+We want to predict wich passenger survived on the Titanic with Logistic Regression. The model has an accuracy of 77%.<br>
 Based on train.csv
