@@ -14,4 +14,9 @@ We want to predict which passenger survived on the Titanic with Logistic Regress
 Based on train.csv
 
 ## Multi-class Classification (Digits)
-We want to recognize handwritten digits from 0 to 9. We do this with Logistic Regression. This model has an accuracy of 96%.
+We want to recognize handwritten digits from 0 to 9. We do this with Logistic Regression. This model has an accuracy of 96%.<br>
+https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html#:~:text=The%20Digit%20Dataset%C2%B6.%20This%20dataset%20is%20made%20up,See%20here%20for%20more%20information%20about%20this%20dataset.
+
+## Multi-class Classification (Iris)
+We want to differentiate between various type of flower. This model has an accuracy of 100%.<br>
+https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
