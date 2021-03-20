@@ -12,3 +12,6 @@ Based on salary.csv
 ## Logistic Regression (Titanic)
 We want to predict which passenger survived on the Titanic with Logistic Regression. The model has an accuracy of 77%.<br>
 Based on train.csv
+
+## Multi-class Classification
+We want to recognize handwritten digits from 0 to 9. We do this with Logistic Regression. This model has an accuracy of 96%.
