@@ -22,3 +22,4 @@ We want to differentiate between various type of flower. This model has an accur
 https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 
 ## Email Spam Detection
+Based on spam_hat_dataset.csv
