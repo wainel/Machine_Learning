@@ -22,4 +22,5 @@ We want to differentiate between various type of flower. This model has an accur
 https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 
 ## Email Spam Detection
+We want to differentiate between ham and spam emails with NLP techniques. This model as an accuracy of 95%.<br>
 Based on spam_hat_dataset.csv
