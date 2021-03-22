@@ -20,3 +20,5 @@ https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.ht
 ## Multi-class Classification (Iris)
 We want to differentiate between various type of flower. This model has an accuracy of 100%.<br>
 https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+
+## Email Spam Detection
