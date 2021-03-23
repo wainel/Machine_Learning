@@ -26,3 +26,11 @@ We want to differentiate between ham and spam emails with NLP techniques. This m
 Based on spam_hat_dataset.csv
 
 ## KMeans Clustering
+K-means clustering is a method used for clustering analysis, especially in data mining and statistics. It aims to partition a set of observations into a number of clusters (k). It can be considered a method of finding out which group a certain object really belongs to. It is used mainly in statistics and can be applied to almost any branch of study.<br>
+The algorithm:
+
+1. K points are placed into the object data space representing the initial group of centroids.<br>
+2. Each object or data point is assigned into the closest k.<br>
+3. After all objects are assigned, the positions of the k centroids are recalculated.<br>
+4. Steps 2 and 3 are repeated until the positions of the centroids no longer move.<br>
+
