@@ -34,3 +34,7 @@ The algorithm:
 3. After all objects are assigned, the positions of the k centroids are recalculated.<br>
 4. Steps 2 and 3 are repeated until the positions of the centroids no longer move.<br>
 
+## PCA Breast Cancer
+Principal Component Analysis (PCA) is a statistical technique used for data reduction without losing its properties. It is about obtaining a unique set of orthogonal axes where the data has the largest variance. Its main aim is to overcome the dimensionality of the problem. The reduction of dimensionality should be such that when dropping higher dimensions, the loss of data is minimum.<br>
+
+Also, the interpretation of principal components can explain associations among variables that are not visible at first glance. It helps analyze the scattering of the observations and recognize the variables responsible for distribution.
